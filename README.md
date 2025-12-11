@@ -1,5 +1,5 @@
 <img width="1579" height="739" alt="image" src="https://github.com/user-attachments/assets/4c2fb43d-8966-401f-a686-f07b3a79f315" />
-![Uploading image.png…]()
+<img width="1576" height="733" alt="image" src="https://github.com/user-attachments/assets/a3157ed6-9a67-439b-954f-69bf4b0edfaf" />
 
 # Nike Store
 
