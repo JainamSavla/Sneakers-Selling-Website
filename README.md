@@ -1,3 +1,6 @@
+<img width="1579" height="739" alt="image" src="https://github.com/user-attachments/assets/4c2fb43d-8966-401f-a686-f07b3a79f315" />
+![Uploading image.png…]()
+
 # Nike Store
 
 A modern, responsive single-page website for a fictional Nike sneaker store. Browse the latest sneaker collections, view product details, and simulate a purchase with a stylish checkout form.
